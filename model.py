@@ -5,7 +5,7 @@
 @File   : model.py
 @Author : FuHuang Liu
 @Date   : 2022/9/23
-@Desc   : 模型，简单的BERT+BiLSTM
+@Desc   : 模型，简单的BERT+BiLSTM+CRF
 """
 import torch
 import torch.nn as nn
