@@ -1,5 +1,7 @@
 # README
 
+#Mine本地工程名为：“BERT_BiLSTM”，对应的pycharm依赖文件均以此为名
+
 ## environment：
 
 python——3.6
